@@ -4,3 +4,5 @@ public class Pascal {
         return new int[]{0};
     }
 }
+
+// https://javawithus.com/programs/pascal-triangle
