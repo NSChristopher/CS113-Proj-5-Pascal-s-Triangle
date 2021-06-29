@@ -10,9 +10,7 @@ public class Pascal {
                 for (int i = 1; i < n - 1; ++i) {
                     array[i] = triangle(n-1)[i - 1] + triangle(n - 1)[i];
                 }
-                return array;
             }
-            return array;
         }
         return array;
         
